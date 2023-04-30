@@ -21,3 +21,5 @@ app.get('/api/notes', (req, res) => {
 app.listen(3001, () => {
   console.log('Server listening on port 3001');
 });
+
+// smantha wAS HERE
